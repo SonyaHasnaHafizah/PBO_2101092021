@@ -10,42 +10,42 @@ package sonya230922;
  * @author SONYA HASNA HAFIZAH
  */
 public class Latihan13 {
-    public static void main( String[] args ){
-        //1. a / b ^ c ^ d – e + f – g * h + i 
-        //2. 3 * 10 *2 / 15 – 2 + 4 ^ 2 ^ 2 
-        //3. r ^ s * t / u – v + w ^ x – y++ 
+    public static void main(String[] args) {
+        int hasil1,hasil2,hasil3;
+        int a = 5;
+        int b = 10;
+        int c = 15;
+        int d = 20;
+        int e = 3;
+        int f = 6;
+        int g = 9;
+        int h = 12;
+        int i = 15;
+        int j = 3;
+        int k = 10;
+        int l = 2;
+        int m = 15;
+        int n = 4;
+        int r = 21;
+        int s = 25;
+        int t = 37;
+        int u = 40;
+        int v = 43;
+        int w = 47;
+        int x = 1;
+        int y = 50;
         
-        int a=2;
-        int b=2;
-        int c=4;
-        int d=8;
-        int e=10;
-        int f=12;
-        int g=14;
-        int h=3;
-        int i=2;
-        int r=2;
-        int s=4;
-        int t=2;
-        int u=5;
-        int v=6;
-        int w=3;
-        int x=5;
-        int y=4;
+        hasil1 = (((a / b) ^ c) ^ d) - e + f - (g * h) + i;
+        System.out.println("1.(((a / b) ^ c) ^ d) - e + f - (g * h) + i");
+        System.out.println("Hasil no 1 = " + hasil1);
         
-        int hasil1;
-        int hasil2;
-        int hasil3;
+        System.out.println("2.((j * k * l) / m) - l + ((n ^ l) ^ l)");
+        hasil2 = ((j * k * l) / m) - l + ((n ^ l) ^ l);
+        System.out.println("Hasil no 2 = " + hasil2);
         
-             
-        //hasil1=((a/b)^c)^d–e+f–(g*h)+i;
-        hasil1=(((a/b)^c)^d)-e+f-(g*h)+i;
-        //hasil2 = ((3 * 10 * 2)/(15 – 2 + 4))^ 2 ^ 2;
-        //hasil3 = r ^ ((s * t)/(u – v + w))^ x – y++; 
-        
-        System.out.println("1. a / b ^ c ^ d – e + f – g * h + i = " +hasil1);
-        //System.out.println("2. 3 * 10 *2 / 15 – 2 + 4 ^ 2 ^ 2  = " +hasil2);
-        //System.out.println("3. r ^ s * t / u – v + w ^ x – y++ = " +hasil3);
-        
+        System.out.println("3.(r ^ (s * t)) / u - v + (w ^ x) - y++");
+        hasil3 = ((r ^ s) * t) / u - v + (w ^ x) - y++;
+        System.out.println("Hasil no 3 = " + hasil3);
     }
 }
+
