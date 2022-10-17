@@ -31,21 +31,21 @@ public class Latihan5 {
                status = "satu"; 
             }else if(bil==2){
                 status = "dua";
-            }else if(bil==2){
+            }else if(bil==3){
                 status = "tiga";
-            }else if(bil==2){
+            }else if(bil==4){
                 status = "empat";
-            }else if(bil==2){
+            }else if(bil==5){
                 status = "lima";
-            }else if(bil==2){
+            }else if(bil==6){
                 status = "enam";
-            }else if(bil==2){
+            }else if(bil==7){
                 status = "tujuh";
-            }else if(bil==2){
+            }else if(bil==8){
                 status = "delapan";
-            }else if(bil==2){
+            }else if(bil==9){
                 status = "sembilan";
-            }else if(bil==2){
+            }else if(bil==10){
                 status = "sepuluh";
             }else{
                 status = "Invalid number";
@@ -84,7 +84,7 @@ public class Latihan5 {
                     status2 = "sepuluh";
                     break;
             default: 
-                status = "Invald Number";
+                status2 = "Invalid Number";
             }
             
         }catch(IOException e){
