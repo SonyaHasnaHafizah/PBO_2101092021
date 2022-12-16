@@ -33,7 +33,7 @@ public class InterfaceExample {
         System.out.println("Luas A > Luas B = " +luasA_luasB);
         
         Relation myBalok = new Balok();
-        Balok volume1 = new Balok(20.0,10.0,5.0);
+        Balok volume1 = new Balok(50.0,10.0,5.0);
         Balok volume2 = new Balok(30.0,20.0,1.0);
         boolean volumeA_volumeB = myBalok.isGreater(volume1,volume2);
         System.out.println("Volume A > Volume B = " +volumeA_volumeB);
