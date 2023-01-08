@@ -1,6 +1,6 @@
 # PBO_2101092021
 Modul 1 (Pengenalan Pemrograman Komputer)
--Dasar – dasar komponen dari komputer meliputi hardware  (perangkat keras) dan software (perangkat lunak), gambaran global tentang bahasa pemrograman, 
+- Dasar – dasar komponen dari komputer meliputi hardware  (perangkat keras) dan software (perangkat lunak), gambaran global tentang bahasa pemrograman, 
 sistem dan konversi numerik.
 
 Modul 2 (Pengenalan Bahasa JAVA)
@@ -35,13 +35,13 @@ bagaimana menggunakan class dan anggotanya. Perubahan dan pemilihan object juga 
 kita akan focus dalam menggunakan class yang telah dijabarkan dalam Java Class library, kita akan membahas nanti tentang bagaimana membikin class anda sendiri.
 
 Modul 10 (Membuat Class Sendiri)
--Penggunaan class dari Java Class Library, kita akan mempelajari  bagaimana menuliskan sebuah class sendiri. Pada bagian ini, untuk mempermudah 
+- Penggunaan class dari Java Class Library, kita akan mempelajari  bagaimana menuliskan sebuah class sendiri. Pada bagian ini, untuk mempermudah 
 pemahaman pembuatan class, kita akan membuat contoh class dimana akan ditambahkan  beberapa data dan fungsi – fungsi lain.
 
 Modul 11 (Pewarisan, Polimorfisme, dan Interface)
--Bagaimana suatu class dapat mewariskan sifat  dari class yang sudah ada. Class ini dinamakan subclass dan induk class dinamakan superclass. 
+- Bagaimana suatu class dapat mewariskan sifat  dari class yang sudah ada. Class ini dinamakan subclass dan induk class dinamakan superclass. 
 Kita juga akan membicarakan sifat khusus dari Java dimana kita dapat secara  otomatis memakai method yand tepat untuk setiap object tanpa memperhatikan asal dari 
 subclass object. Sifat ini dinamakan polimorfisme. Pada akhirnya, kita akan mendiskusikan tentang interface yang membantu mengurangi penulisan program. 
 
 Modul 12 (Dasar Exception Handling)
--Teknik yang dipakai dalam Java dalam menangani kondisi yang tidak biasa dalam menjalankan operasi normal dalam program. Teknik ini dinamakan exception handling.
+- Teknik yang dipakai dalam Java dalam menangani kondisi yang tidak biasa dalam menjalankan operasi normal dalam program. Teknik ini dinamakan exception handling.
